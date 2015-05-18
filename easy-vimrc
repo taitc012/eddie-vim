@@ -31,6 +31,9 @@ noremap ; :nohlsearch<CR>
 
 " navigating for long lines
 map j gj
+
+
+
 map k gk
 map <UP> gk
 map <DOWN> gj
